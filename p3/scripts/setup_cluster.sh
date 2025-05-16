@@ -9,4 +9,4 @@ fi
 
 echo -e "\e[34mCreating K3D cluster...\e[0m"
 k3d cluster create mycluster > /dev/null 2>&1
-echo -e "\e[32mCluster 'mycluster' has been successfully created.\e[0m"
+echo -e "\e[32mCluster Created !\e[0m"

@@ -29,11 +29,11 @@ git add .
 
 # Commit the changes
 echo -e "\e[34mCommitting changes...\e[0m"
-git commit -m "$COMMIT_MESSAGE" > /dev/null 2>&1
+git commit -m "$COMMIT_MESSAGE"
 
 # Push the changes
 echo -e "\e[34mPushing changes to the repository...\e[0m"
-git push > /dev/null 2>&1
+git push
 
 # Check if push was successful
 if [ $? -eq 0 ]; then

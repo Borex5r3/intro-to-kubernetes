@@ -18,4 +18,4 @@ get_and_print_secret() {
 echo -e "\n==== ArgoCD Admin Password ===="
 get_and_print_secret "argocd" "argocd-initial-admin-secret"
 
-echo -e '\e[32mScript completed.\n\e[0m'
+echo -e '\e[32mCredentials found successfully.\n\e[0m'
