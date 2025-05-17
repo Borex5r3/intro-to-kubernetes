@@ -14,6 +14,16 @@ You will:
 
 > ⚠️ Kubernetes is a powerful and complex tool. This project offers a basic introduction and is not intended to make you an expert.
 
+## 🧠 Background & Motivation
+
+![Kubernetes History and Motivation](images/kubernetes-history.png)
+*Image: History and motivation behind Kubernetes*
+
+## 🏗️ System Architecture
+
+![Kubernetes Architecture](images/kubernetes-architecture.png)
+*Image: High-level architecture of a Kubernetes system*
+
 ## 🧰 Tools
 
 - [K3d](https://k3d.io/)
@@ -25,16 +35,6 @@ You will:
 - Gain hands-on experience with Kubernetes in a local environment.
 - Understand the use of K3s and K3d for lightweight clusters.
 - Practice setting up and using Ingress controllers.
-
-## 🧠 Background & Motivation
-
-![Kubernetes History and Motivation](images/kubernetes-history.png)
-*Image: History and motivation behind Kubernetes*
-
-## 🏗️ System Architecture
-
-![Kubernetes Architecture](images/kubernetes-architecture.png)
-*Image: High-level architecture of a Kubernetes system*
 
 ---
 
