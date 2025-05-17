@@ -26,12 +26,15 @@ You will:
 - Understand the use of K3s and K3d for lightweight clusters.
 - Practice setting up and using Ingress controllers.
 
-## 💡 Getting Started
+## 🧠 Background & Motivation
 
-1. Clone this repository.
-2. Run `vagrant up` to start your VM.
-3. Install K3s or K3d using provided scripts or manual steps.
-4. Use `kubectl` to interact with your cluster and test Ingress routing.
+![Kubernetes History and Motivation](images/kubernetes-history.png)
+*Image: History and motivation behind Kubernetes*
+
+## 🏗️ System Architecture
+
+![Kubernetes Architecture](images/kubernetes-architecture.png)
+*Image: High-level architecture of a Kubernetes system*
 
 ---
 
